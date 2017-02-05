@@ -7,9 +7,9 @@
 //
 
 #import "RNVectorIconsManager.h"
-#import <React/RCTConvert.h>
-#import <React/RCTBridge.h>
-#import <React/RCTUtils.h>
+#import <RCTConvert.h>
+#import <RCTBridge.h>
+#import <RCTUtils.h>
 
 @implementation RNVectorIconsManager
 
